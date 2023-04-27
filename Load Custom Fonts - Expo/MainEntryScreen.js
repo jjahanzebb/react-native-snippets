@@ -1,6 +1,7 @@
 
 // The code imports React, some React Native components, and two Expo packages - SplashScreen and Font.
 
+import React, { useCallback, useEffect, useState } from "react";
 import { StyleSheet, Text, View } from "react-native";
 import * as SplashScreen from "expo-splash-screen";
 import * as Font from "expo-font";
@@ -54,7 +55,7 @@ export default function App() {
 
   return (
     <View style={styles.container} onLayout={onLayoutRootView}>
-      <Text style={{ fontFamily: "Font-One" }}>Default Font STYLE</Text>
+      <Text>Default Font STYLE</Text>
 
       <Text style={{ fontFamily: "Font-One" }}>Fone-One STYLE Demo!</Text>
       <Text style={{ fontFamily: "Font-Two" }}>Font-Two STYLE Demo!</Text>
