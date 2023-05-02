@@ -7,7 +7,7 @@ Welcome to my collection of React Native code snippets! This repository contains
 To use these snippets, simply clone this repository to your local machine:
 
 ```
-git clone https://github.com/jjahanzebb/react-native-snippets.git
+git clone https://github.com/jjahanzebb/rn-custom-bottom-tabs.git
 ```
 
 ## Usage
