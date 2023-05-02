@@ -1,5 +1,14 @@
+
+### Preview
 ![Bottom Tab Demo](https://user-images.githubusercontent.com/93594492/235438583-a83b775d-8ec8-4389-8e88-5225a5fc4a9a.gif)
 
+### Project Repo
+```
+git clone https://github.com/jjahanzebb/rn-custom-bottom-tabs.git
+```
+
+### Code
+> File Path: project/App.js
 ```javascript
 import React, { useEffect, useState } from "react";
 import { StyleSheet, View } from "react-native";
