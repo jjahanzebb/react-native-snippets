@@ -1,4 +1,4 @@
-### Square Images (1:1 Ratio)
+### Image Ratios (1:1 Ratio)
 ```javascript
      <Image
         source={require("./assets/image.png")}
@@ -10,7 +10,7 @@
         }}
       />
       
-            <Image
+     <Image
         source={require("./assets/image.png")}
         resizeMode="cover"
         style={{
@@ -20,7 +20,7 @@
         }}
       />
       
-            <Image
+     <Image
         source={require("./assets/image.png")}
         resizeMode="cover"
         style={{
@@ -30,7 +30,7 @@
         }}
       />
       
-        <Image
+     <Image
         source={require("./assets/image.png")}
         resizeMode="cover"
         style={{
@@ -40,7 +40,7 @@
         }}
       />
       
-         <Image
+     <Image
         source={require("./assets/image.png")}
         resizeMode="cover"
         style={{
@@ -50,7 +50,7 @@
         }}
       />
       
-          <Image
+     <Image
         source={require("./assets/image.png")}
         resizeMode="cover"
         style={{
